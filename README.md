@@ -1,5 +1,3 @@
-# no-switch-prod.keys-can-be-found-here
+And absolutely ignore the `no-keys-to-be-found-here` file. As the title says, you will not find prod.keys for firmware version 21.0.0 there.
 
-Go away, nothing of interest here!!!
-
-And ignore the [`nothing-here`](https://github.com/Entkenntnis/no-switch-prod.keys-can-be-found-here/tree/nothing-here) branch, it's completely uninteresting.
+Go away!
